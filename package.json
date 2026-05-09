@@ -1,0 +1,12 @@
+{
+  "name": "vx-ws-server",
+  "version": "1.0.0",
+  "description": "Realtime update notifier for vx chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
